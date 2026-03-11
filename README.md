@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shawn 👋
 
-<!--
-**shawn-sanchez96/shawn-sanchez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **Western Governors University**
 
-Here are some ideas to get you started:
+Interested in:
+- AI systems
+- cloud infrastructure
+- automation tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Python • JavaScript • APIs • Git • Angular
+
+## Featured Projects
+
+### JARVIS AI Assistant
+Personal AI assistant built with Python that integrates APIs and command processing.
+
+### Angular World Map
+Interactive SVG world map that pulls country data from APIs.
+
+### Web Development Project
+Multi-page responsive website using HTML, CSS, and JavaScript.
+
+### Git Workflow Demo
+Demonstrates version control workflows and branching strategies.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/YOURPROFILE  
+GitHub: https://github.com/shawn-sanchez96
